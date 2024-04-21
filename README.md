@@ -23,6 +23,8 @@ This iOS application allows users to manage employee information fetched from a 
 3. Use the "Previous" button to view the details of the previous employee.
 4. Details of each employee are updated accordingly on the UI.
 
+## Demo
+![Demo](demo.gif)
 
 ## JSON Data Structure
 **The JSON data provided for this application was obtained from Full Sail University.**
