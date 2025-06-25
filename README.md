@@ -1,4 +1,9 @@
 # Employee-Management-App
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Employee-Management-App)
+</div>
+
 This iOS application allows users to manage employee information fetched from a JSON file. Users can navigate through the list of employees, viewing details such as employee name, username, MAC address, current job title, skills, past employers, and more.
 
 ## Installation
